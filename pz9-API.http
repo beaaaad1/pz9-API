@@ -1,0 +1,6 @@
+@pz9_API_HostAddress = http://localhost:5016
+
+GET {{pz9_API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
